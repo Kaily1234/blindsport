@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:white ;
+}
+h1{
+    background-color: black;
+    color:aqua;
+    text-align: center;
+}
+.About_me{
+    background-color: blanchedalmond;
+    color: blue ;
+    width: 250px ;
+    height: 300px ;
+    padding: 10px 30px ;
+    margin: 30px ;
+}
+hr{
+    height: 5px;
+    color: black;
+    background-color: blueviolet;
+}
